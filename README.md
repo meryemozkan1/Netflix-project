@@ -6,7 +6,7 @@ Bu depo, popüler video akış hizmeti Netflix'in temel özelliklerini taklit ed
 
 - HTML5 </br>
 
--CSS </br>
+- CSS </br>
 
 <h1>Ekran Görüntüsü </h1></br>
 
